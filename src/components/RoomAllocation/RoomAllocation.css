@@ -1,0 +1,11 @@
+.room-allocation-container{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content:space-between；
+}
+.room-allocation-container > div {
+    margin: 0.5rem;
+}
+.room-lable{
+    font-size: 16px;margin-right: 1rem;
+}
